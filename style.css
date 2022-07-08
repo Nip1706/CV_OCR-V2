@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'aaarghnormal';
+    src: url('fonts/Aaargh-webfont.eot');
+    src: url('fonts/Aaargh-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Aaargh-webfont.woff') format('woff'),
+         url('fonts/Aaargh-webfont.ttf') format('truetype'),
+         url('fonts/Aaargh-webfont.svg#aaarghnormal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body {
+    font-family: 'aaarghnormal', Arial, Helvetica, sans-serif;
+    background-image: url(https://wallpaper.dog/large/5535899.jpg);
+    
+}
+
+h1 {
+    text-align: center;
+    color: gold;
+}
+
+h2 {
+    color: gold;
+    text-align: center;
+}
+
+figure {
+    text-align: center;
+}
+
+figcaption {
+    font-style: italic;
+    color: white;
+    text-align: center;
+}
+
+img {
+    border: 2px solid orange;
+    box-shadow: 3px 3px 3px orange;
+}
+
+li {
+    width: 50%;
+    margin: auto;
+    text-align: justify;
+    list-style-type: none;
+    color: white;
+}
+
+p {
+    text-align: center;
+    color: white;
+}
+
+a {
+    color: gold;
+}
+
+.code {
+    
+}
